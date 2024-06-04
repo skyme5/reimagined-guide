@@ -1,0 +1,5302 @@
+
+event: content
+id: 1
+data: <SECTION
+
+event: content
+id: 2
+data:  n
+
+event: content
+id: 3
+data: =
+
+event: content
+id: 4
+data: 1
+
+event: content
+id: 5
+data: >
+
+event: content
+id: 6
+data: 
+data: 
+
+event: content
+id: 7
+data: <H
+
+event: content
+id: 8
+data: 1
+
+event: content
+id: 9
+data:  
+
+event: content
+id: 10
+data: class
+
+event: content
+id: 11
+data: ="
+
+event: content
+id: 12
+data: title
+
+event: content
+id: 13
+data: ">
+
+event: content
+id: 14
+data: Introduction
+
+event: content
+id: 15
+data:  to
+
+event: content
+id: 16
+data:  Data
+
+event: content
+id: 17
+data:  Structures
+
+event: content
+id: 18
+data:  an
+
+event: content
+id: 19
+data: d Algorithms
+
+event: content
+id: 20
+data: </
+
+event: content
+id: 21
+data: H
+
+event: content
+id: 22
+data: 1
+
+event: content
+id: 23
+data: >
+
+event: content
+id: 24
+data: 
+data: 
+
+event: content
+id: 25
+data: <IMG
+
+event: content
+id: 26
+data:  query
+
+event: content
+id: 27
+data: ="
+
+event: content
+id: 28
+data: computer
+
+event: content
+id: 29
+data:  programming
+
+event: content
+id: 30
+data:  code
+
+event: content
+id: 31
+data: "
+
+event: content
+id: 32
+data:  />
+
+event: content
+id: 33
+data: 
+data: Data
+
+event: content
+id: 34
+data:  structures
+
+event: content
+id: 35
+data:  an
+
+event: content
+id: 36
+data: d algorithms
+
+event: content
+id: 37
+data:  form
+
+event: content
+id: 38
+data:  the
+
+event: content
+id: 39
+data:  backbone
+
+event: content
+id: 40
+data:  of
+
+event: content
+id: 41
+data:  effective
+
+event: content
+id: 42
+data:  software
+
+event: content
+id: 43
+data:  development
+
+event: content
+id: 44
+data: .
+
+event: content
+id: 45
+data:  They
+
+event: content
+id: 46
+data:  provide
+
+event: content
+id: 47
+data:  the
+
+event: content
+id: 48
+data:  building
+
+event: content
+id: 49
+data:  blocks
+
+event: content
+id: 50
+data:  for
+
+event: content
+id: 51
+data:  creating
+
+event: content
+id: 52
+data:  efficient
+
+event: content
+id: 53
+data:  an
+
+event: content
+id: 54
+data: d scal
+
+event: content
+id: 55
+data: able
+
+event: content
+id: 56
+data:  applications
+
+event: content
+id: 57
+data:  that
+
+event: content
+id: 58
+data:  can
+
+event: content
+id: 59
+data:  handle
+
+event: content
+id: 60
+data:  complex
+
+event: content
+id: 61
+data:  tasks
+
+event: content
+id: 62
+data:  an
+
+event: content
+id: 63
+data: d large
+
+event: content
+id: 64
+data:  amounts
+
+event: content
+id: 65
+data:  of
+
+event: content
+id: 66
+data:  data
+
+event: content
+id: 67
+data: .
+
+event: content
+id: 68
+data: 
+data: </
+
+event: content
+id: 69
+data: SECTION
+
+event: content
+id: 70
+data: >
+
+event: content
+id: 71
+data: 
+data: 
+data: 
+
+event: content
+id: 72
+data: <SECTION
+
+event: content
+id: 73
+data:  n
+
+event: content
+id: 74
+data: =
+
+event: content
+id: 75
+data: 2
+
+event: content
+id: 76
+data: >
+
+event: content
+id: 77
+data: 
+data: 
+
+event: content
+id: 78
+data: <H
+
+event: content
+id: 79
+data: 1
+
+event: content
+id: 80
+data: >
+
+event: content
+id: 81
+data: Fundamental
+
+event: content
+id: 82
+data:  Data
+
+event: content
+id: 83
+data:  Structures
+
+event: content
+id: 84
+data: </
+
+event: content
+id: 85
+data: H
+
+event: content
+id: 86
+data: 1
+
+event: content
+id: 87
+data: >
+
+event: content
+id: 88
+data: 
+data: 
+
+event: content
+id: 89
+data: <COLUMNS
+
+event: content
+id: 90
+data: >
+
+event: content
+id: 91
+data: 
+data: 
+
+event: content
+id: 92
+data: <DI
+
+event: content
+id: 93
+data: V
+
+event: content
+id: 94
+data: >
+
+event: content
+id: 95
+data: 
+data: 
+
+event: content
+id: 96
+data: <H
+
+event: content
+id: 97
+data: 4
+
+event: content
+id: 98
+data: >
+
+event: content
+id: 99
+data: Arrays
+
+event: content
+id: 100
+data: </
+
+event: content
+id: 101
+data: H
+
+event: content
+id: 102
+data: 4
+
+event: content
+id: 103
+data: >
+
+event: content
+id: 104
+data: 
+data: 
+
+event: content
+id: 105
+data: <P
+
+event: content
+id: 106
+data: >
+
+event: content
+id: 107
+data: Ordere
+
+event: content
+id: 108
+data: d collections
+
+event: content
+id: 109
+data:  of
+
+event: content
+id: 110
+data:  elements
+
+event: content
+id: 111
+data:  that
+
+event: content
+id: 112
+data:  allow
+
+event: content
+id: 113
+data:  for
+
+event: content
+id: 114
+data:  efficient
+
+event: content
+id: 115
+data:  access
+
+event: content
+id: 116
+data:  an
+
+event: content
+id: 117
+data: d manipulation
+
+event: content
+id: 118
+data:  of
+
+event: content
+id: 119
+data:  data
+
+event: content
+id: 120
+data: .</
+
+event: content
+id: 121
+data: P
+
+event: content
+id: 122
+data: >
+
+event: content
+id: 123
+data: 
+data: </
+
+event: content
+id: 124
+data: DI
+
+event: content
+id: 125
+data: V
+
+event: content
+id: 126
+data: >
+
+event: content
+id: 127
+data: 
+data: 
+
+event: content
+id: 128
+data: <DI
+
+event: content
+id: 129
+data: V
+
+event: content
+id: 130
+data: >
+
+event: content
+id: 131
+data: 
+data: 
+
+event: content
+id: 132
+data: <H
+
+event: content
+id: 133
+data: 4
+
+event: content
+id: 134
+data: >
+
+event: content
+id: 135
+data: Linke
+
+event: content
+id: 136
+data: d Lists
+
+event: content
+id: 137
+data: </
+
+event: content
+id: 138
+data: H
+
+event: content
+id: 139
+data: 4
+
+event: content
+id: 140
+data: >
+
+event: content
+id: 141
+data: 
+data: 
+
+event: content
+id: 142
+data: <P
+
+event: content
+id: 143
+data: >
+
+event: content
+id: 144
+data: Dynamic
+
+event: content
+id: 145
+data:  data
+
+event: content
+id: 146
+data:  structures
+
+event: content
+id: 147
+data:  that
+
+event: content
+id: 148
+data:  allow
+
+event: content
+id: 149
+data:  for
+
+event: content
+id: 150
+data:  flexible
+
+event: content
+id: 151
+data:  insertion
+
+event: content
+id: 152
+data:  an
+
+event: content
+id: 153
+data: d deletion
+
+event: content
+id: 154
+data:  of
+
+event: content
+id: 155
+data:  elements
+
+event: content
+id: 156
+data: .</
+
+event: content
+id: 157
+data: P
+
+event: content
+id: 158
+data: >
+
+event: content
+id: 159
+data: 
+data: </
+
+event: content
+id: 160
+data: DI
+
+event: content
+id: 161
+data: V
+
+event: content
+id: 162
+data: >
+
+event: content
+id: 163
+data: 
+data: 
+
+event: content
+id: 164
+data: <DI
+
+event: content
+id: 165
+data: V
+
+event: content
+id: 166
+data: >
+
+event: content
+id: 167
+data: 
+data: 
+
+event: content
+id: 168
+data: <H
+
+event: content
+id: 169
+data: 4
+
+event: content
+id: 170
+data: >
+
+event: content
+id: 171
+data: St
+
+event: content
+id: 172
+data: acks
+
+event: content
+id: 173
+data:  an
+
+event: content
+id: 174
+data: d Que
+
+event: content
+id: 175
+data: ues
+
+event: content
+id: 176
+data: </
+
+event: content
+id: 177
+data: H
+
+event: content
+id: 178
+data: 4
+
+event: content
+id: 179
+data: >
+
+event: content
+id: 180
+data: 
+data: 
+
+event: content
+id: 181
+data: <P
+
+event: content
+id: 182
+data: >
+
+event: content
+id: 183
+data: Specialize
+
+event: content
+id: 184
+data: d data
+
+event: content
+id: 185
+data:  structures
+
+event: content
+id: 186
+data:  that
+
+event: content
+id: 187
+data:  follow
+
+event: content
+id: 188
+data:  the
+
+event: content
+id: 189
+data:  Last
+
+event: content
+id: 190
+data: -
+
+event: content
+id: 191
+data: In
+
+event: content
+id: 192
+data: -
+
+event: content
+id: 193
+data: First
+
+event: content
+id: 194
+data: -
+
+event: content
+id: 195
+data: Out
+
+event: content
+id: 196
+data:  (
+
+event: content
+id: 197
+data: LI
+
+event: content
+id: 198
+data: FO
+
+event: content
+id: 199
+data: )
+
+event: content
+id: 200
+data:  an
+
+event: content
+id: 201
+data: d First
+
+event: content
+id: 202
+data: -
+
+event: content
+id: 203
+data: In
+
+event: content
+id: 204
+data: -
+
+event: content
+id: 205
+data: First
+
+event: content
+id: 206
+data: -
+
+event: content
+id: 207
+data: Out
+
+event: content
+id: 208
+data:  (
+
+event: content
+id: 209
+data: FI
+
+event: content
+id: 210
+data: FO
+
+event: content
+id: 211
+data: )
+
+event: content
+id: 212
+data:  principles
+
+event: content
+id: 213
+data: .</
+
+event: content
+id: 214
+data: P
+
+event: content
+id: 215
+data: >
+
+event: content
+id: 216
+data: 
+data: </
+
+event: content
+id: 217
+data: DI
+
+event: content
+id: 218
+data: V
+
+event: content
+id: 219
+data: >
+
+event: content
+id: 220
+data: 
+data: </
+
+event: content
+id: 221
+data: COLUMNS
+
+event: content
+id: 222
+data: >
+
+event: content
+id: 223
+data: 
+data: 
+
+event: content
+id: 224
+data: <IMG
+
+event: content
+id: 225
+data:  query
+
+event: content
+id: 226
+data: ="
+
+event: content
+id: 227
+data: data
+
+event: content
+id: 228
+data:  structures
+
+event: content
+id: 229
+data:  illustration
+
+event: content
+id: 230
+data: "
+
+event: content
+id: 231
+data:  />
+
+event: content
+id: 232
+data: 
+data: </
+
+event: content
+id: 233
+data: SECTION
+
+event: content
+id: 234
+data: >
+
+event: content
+id: 235
+data: 
+data: 
+data: 
+
+event: content
+id: 236
+data: <SECTION
+
+event: content
+id: 237
+data:  n
+
+event: content
+id: 238
+data: =
+
+event: content
+id: 239
+data: 3
+
+event: content
+id: 240
+data: >
+
+event: content
+id: 241
+data: 
+data: 
+
+event: content
+id: 242
+data: <H
+
+event: content
+id: 243
+data: 1
+
+event: content
+id: 244
+data: >
+
+event: content
+id: 245
+data: Sorting
+
+event: content
+id: 246
+data:  Algorithms
+
+event: content
+id: 247
+data: </
+
+event: content
+id: 248
+data: H
+
+event: content
+id: 249
+data: 1
+
+event: content
+id: 250
+data: >
+
+event: content
+id: 251
+data: 
+data: 
+
+event: content
+id: 252
+data: <TIMELINE
+
+event: content
+id: 253
+data:  orientation
+
+event: content
+id: 254
+data: ="
+
+event: content
+id: 255
+data: horizontal
+
+event: content
+id: 256
+data: "
+
+event: content
+id: 257
+data:  tw
+
+event: content
+id: 258
+data: os
+
+event: content
+id: 259
+data: ide
+
+event: content
+id: 260
+data: d="
+
+event: content
+id: 261
+data: true
+
+event: content
+id: 262
+data: ">
+
+event: content
+id: 263
+data: 
+data: 
+
+event: content
+id: 264
+data: <DI
+
+event: content
+id: 265
+data: V
+
+event: content
+id: 266
+data: >
+
+event: content
+id: 267
+data: 
+data: 
+
+event: content
+id: 268
+data: <H
+
+event: content
+id: 269
+data: 4
+
+event: content
+id: 270
+data: >
+
+event: content
+id: 271
+data: Bubble
+
+event: content
+id: 272
+data:  Sort
+
+event: content
+id: 273
+data: </
+
+event: content
+id: 274
+data: H
+
+event: content
+id: 275
+data: 4
+
+event: content
+id: 276
+data: >
+
+event: content
+id: 277
+data: 
+data: 
+
+event: content
+id: 278
+data: <P
+
+event: content
+id: 279
+data: >
+
+event: content
+id: 280
+data: A
+
+event: content
+id: 281
+data:  simple
+
+event: content
+id: 282
+data:  algorithm
+
+event: content
+id: 283
+data:  that
+
+event: content
+id: 284
+data:  repeatedly
+
+event: content
+id: 285
+data:  sw
+
+event: content
+id: 286
+data: aps
+
+event: content
+id: 287
+data:  adjacent
+
+event: content
+id: 288
+data:  elements
+
+event: content
+id: 289
+data:  if
+
+event: content
+id: 290
+data:  they
+
+event: content
+id: 291
+data:  are
+
+event: content
+id: 292
+data:  in
+
+event: content
+id: 293
+data:  the
+
+event: content
+id: 294
+data:  wrong
+
+event: content
+id: 295
+data:  order
+
+event: content
+id: 296
+data: .</
+
+event: content
+id: 297
+data: P
+
+event: content
+id: 298
+data: >
+
+event: content
+id: 299
+data: 
+data: </
+
+event: content
+id: 300
+data: DI
+
+event: content
+id: 301
+data: V
+
+event: content
+id: 302
+data: >
+
+event: content
+id: 303
+data: 
+data: 
+
+event: content
+id: 304
+data: <DI
+
+event: content
+id: 305
+data: V
+
+event: content
+id: 306
+data: >
+
+event: content
+id: 307
+data: 
+data: 
+
+event: content
+id: 308
+data: <H
+
+event: content
+id: 309
+data: 4
+
+event: content
+id: 310
+data: >
+
+event: content
+id: 311
+data: Insertion
+
+event: content
+id: 312
+data:  Sort
+
+event: content
+id: 313
+data: </
+
+event: content
+id: 314
+data: H
+
+event: content
+id: 315
+data: 4
+
+event: content
+id: 316
+data: >
+
+event: content
+id: 317
+data: 
+data: 
+
+event: content
+id: 318
+data: <P
+
+event: content
+id: 319
+data: >
+
+event: content
+id: 320
+data: An
+
+event: content
+id: 321
+data:  algorithm
+
+event: content
+id: 322
+data:  that
+
+event: content
+id: 323
+data:  builds
+
+event: content
+id: 324
+data:  the
+
+event: content
+id: 325
+data:  final
+
+event: content
+id: 326
+data:  sorte
+
+event: content
+id: 327
+data: d array
+
+event: content
+id: 328
+data:  one
+
+event: content
+id: 329
+data:  item
+
+event: content
+id: 330
+data:  at
+
+event: content
+id: 331
+data:  a
+
+event: content
+id: 332
+data:  time
+
+event: content
+id: 333
+data:  by
+
+event: content
+id: 334
+data:  inser
+
+event: content
+id: 335
+data: ting
+
+event: content
+id: 336
+data:  elements
+
+event: content
+id: 337
+data:  into
+
+event: content
+id: 338
+data:  their
+
+event: content
+id: 339
+data:  correct
+
+event: content
+id: 340
+data:  position
+
+event: content
+id: 341
+data: .</
+
+event: content
+id: 342
+data: P
+
+event: content
+id: 343
+data: >
+
+event: content
+id: 344
+data: 
+data: </
+
+event: content
+id: 345
+data: DI
+
+event: content
+id: 346
+data: V
+
+event: content
+id: 347
+data: >
+
+event: content
+id: 348
+data: 
+data: 
+
+event: content
+id: 349
+data: <DI
+
+event: content
+id: 350
+data: V
+
+event: content
+id: 351
+data: >
+
+event: content
+id: 352
+data: 
+data: 
+
+event: content
+id: 353
+data: <H
+
+event: content
+id: 354
+data: 4
+
+event: content
+id: 355
+data: >
+
+event: content
+id: 356
+data: Merge
+
+event: content
+id: 357
+data:  Sort
+
+event: content
+id: 358
+data: </
+
+event: content
+id: 359
+data: H
+
+event: content
+id: 360
+data: 4
+
+event: content
+id: 361
+data: >
+
+event: content
+id: 362
+data: 
+data: 
+
+event: content
+id: 363
+data: <P
+
+event: content
+id: 364
+data: >
+
+event: content
+id: 365
+data: A
+
+event: content
+id: 366
+data:  divide
+
+event: content
+id: 367
+data: -
+
+event: content
+id: 368
+data: an
+
+event: content
+id: 369
+data: d-
+
+event: content
+id: 370
+data: con
+
+event: content
+id: 371
+data: quer
+
+event: content
+id: 372
+data:  algorithm
+
+event: content
+id: 373
+data:  that
+
+event: content
+id: 374
+data:  recurs
+
+event: content
+id: 375
+data: ively
+
+event: content
+id: 376
+data:  splits
+
+event: content
+id: 377
+data:  the
+
+event: content
+id: 378
+data:  input
+
+event: content
+id: 379
+data: ,
+
+event: content
+id: 380
+data:  sorts
+
+event: content
+id: 381
+data:  the
+
+event: content
+id: 382
+data:  sub
+
+event: content
+id: 383
+data: -
+
+event: content
+id: 384
+data: parts
+
+event: content
+id: 385
+data: ,
+
+event: content
+id: 386
+data:  an
+
+event: content
+id: 387
+data: d then
+
+event: content
+id: 388
+data:  mer
+
+event: content
+id: 389
+data: ges
+
+event: content
+id: 390
+data:  them
+
+event: content
+id: 391
+data:  back
+
+event: content
+id: 392
+data:  together
+
+event: content
+id: 393
+data: .</
+
+event: content
+id: 394
+data: P
+
+event: content
+id: 395
+data: >
+
+event: content
+id: 396
+data: 
+data: </
+
+event: content
+id: 397
+data: DI
+
+event: content
+id: 398
+data: V
+
+event: content
+id: 399
+data: >
+
+event: content
+id: 400
+data: 
+data: </
+
+event: content
+id: 401
+data: TIMELINE
+
+event: content
+id: 402
+data: >
+
+event: content
+id: 403
+data: 
+data: 
+
+event: content
+id: 404
+data: <IMG
+
+event: content
+id: 405
+data:  query
+
+event: content
+id: 406
+data: ="
+
+event: content
+id: 407
+data: sorting
+
+event: content
+id: 408
+data:  algorithms
+
+event: content
+id: 409
+data:  visualization
+
+event: content
+id: 410
+data: "
+
+event: content
+id: 411
+data:  />
+
+event: content
+id: 412
+data: 
+data: </
+
+event: content
+id: 413
+data: SECTION
+
+event: content
+id: 414
+data: >
+
+event: content
+id: 415
+data: 
+data: 
+data: 
+
+event: content
+id: 416
+data: <SECTION
+
+event: content
+id: 417
+data:  n
+
+event: content
+id: 418
+data: =
+
+event: content
+id: 419
+data: 4
+
+event: content
+id: 420
+data: >
+
+event: content
+id: 421
+data: 
+data: 
+
+event: content
+id: 422
+data: <H
+
+event: content
+id: 423
+data: 1
+
+event: content
+id: 424
+data: >
+
+event: content
+id: 425
+data: Searching
+
+event: content
+id: 426
+data:  Algorithms
+
+event: content
+id: 427
+data: </
+
+event: content
+id: 428
+data: H
+
+event: content
+id: 429
+data: 1
+
+event: content
+id: 430
+data: >
+
+event: content
+id: 431
+data: 
+data: 
+
+event: content
+id: 432
+data: <BULLETS
+
+event: content
+id: 433
+data: >
+
+event: content
+id: 434
+data: 
+data: 
+
+event: content
+id: 435
+data: <DI
+
+event: content
+id: 436
+data: V
+
+event: content
+id: 437
+data: >
+
+event: content
+id: 438
+data: 
+data: 
+
+event: content
+id: 439
+data: <H
+
+event: content
+id: 440
+data: 4
+
+event: content
+id: 441
+data: >
+
+event: content
+id: 442
+data: Linear
+
+event: content
+id: 443
+data:  Search
+
+event: content
+id: 444
+data: </
+
+event: content
+id: 445
+data: H
+
+event: content
+id: 446
+data: 4
+
+event: content
+id: 447
+data: >
+
+event: content
+id: 448
+data: 
+data: 
+
+event: content
+id: 449
+data: <P
+
+event: content
+id: 450
+data: >
+
+event: content
+id: 451
+data: A
+
+event: content
+id: 452
+data:  simple
+
+event: content
+id: 453
+data:  algorithm
+
+event: content
+id: 454
+data:  that
+
+event: content
+id: 455
+data:  sequ
+
+event: content
+id: 456
+data: entially
+
+event: content
+id: 457
+data:  checks
+
+event: content
+id: 458
+data:  each
+
+event: content
+id: 459
+data:  element
+
+event: content
+id: 460
+data:  in
+
+event: content
+id: 461
+data:  the
+
+event: content
+id: 462
+data:  data
+
+event: content
+id: 463
+data:  structure
+
+event: content
+id: 464
+data:  until
+
+event: content
+id: 465
+data:  the
+
+event: content
+id: 466
+data:  target
+
+event: content
+id: 467
+data:  is
+
+event: content
+id: 468
+data:  foun
+
+event: content
+id: 469
+data: d.</
+
+event: content
+id: 470
+data: P
+
+event: content
+id: 471
+data: >
+
+event: content
+id: 472
+data: 
+data: </
+
+event: content
+id: 473
+data: DI
+
+event: content
+id: 474
+data: V
+
+event: content
+id: 475
+data: >
+
+event: content
+id: 476
+data: 
+data: 
+
+event: content
+id: 477
+data: <DI
+
+event: content
+id: 478
+data: V
+
+event: content
+id: 479
+data: >
+
+event: content
+id: 480
+data: 
+data: 
+
+event: content
+id: 481
+data: <H
+
+event: content
+id: 482
+data: 4
+
+event: content
+id: 483
+data: >
+
+event: content
+id: 484
+data: Binary
+
+event: content
+id: 485
+data:  Search
+
+event: content
+id: 486
+data: </
+
+event: content
+id: 487
+data: H
+
+event: content
+id: 488
+data: 4
+
+event: content
+id: 489
+data: >
+
+event: content
+id: 490
+data: 
+data: 
+
+event: content
+id: 491
+data: <P
+
+event: content
+id: 492
+data: >
+
+event: content
+id: 493
+data: An
+
+event: content
+id: 494
+data:  efficient
+
+event: content
+id: 495
+data:  algorithm
+
+event: content
+id: 496
+data:  that
+
+event: content
+id: 497
+data:  repeatedly
+
+event: content
+id: 498
+data:  div
+
+event: content
+id: 499
+data: ides
+
+event: content
+id: 500
+data:  the
+
+event: content
+id: 501
+data:  search
+
+event: content
+id: 502
+data:  interval
+
+event: content
+id: 503
+data:  in
+
+event: content
+id: 504
+data:  half
+
+event: content
+id: 505
+data:  to
+
+event: content
+id: 506
+data:  quickly
+
+event: content
+id: 507
+data:  locate
+
+event: content
+id: 508
+data:  the
+
+event: content
+id: 509
+data:  target
+
+event: content
+id: 510
+data:  element
+
+event: content
+id: 511
+data: .</
+
+event: content
+id: 512
+data: P
+
+event: content
+id: 513
+data: >
+
+event: content
+id: 514
+data: 
+data: </
+
+event: content
+id: 515
+data: DI
+
+event: content
+id: 516
+data: V
+
+event: content
+id: 517
+data: >
+
+event: content
+id: 518
+data: 
+data: </
+
+event: content
+id: 519
+data: BULLETS
+
+event: content
+id: 520
+data: >
+
+event: content
+id: 521
+data: 
+data: 
+
+event: content
+id: 522
+data: <IMG
+
+event: content
+id: 523
+data:  query
+
+event: content
+id: 524
+data: ="
+
+event: content
+id: 525
+data: searching
+
+event: content
+id: 526
+data:  algorithms
+
+event: content
+id: 527
+data: "
+
+event: content
+id: 528
+data:  />
+
+event: content
+id: 529
+data: 
+data: </
+
+event: content
+id: 530
+data: SECTION
+
+event: content
+id: 531
+data: >
+
+event: content
+id: 532
+data: 
+data: 
+data: 
+
+event: content
+id: 533
+data: <SECTION
+
+event: content
+id: 534
+data:  n
+
+event: content
+id: 535
+data: =
+
+event: content
+id: 536
+data: 5
+
+event: content
+id: 537
+data: >
+
+event: content
+id: 538
+data: 
+data: 
+
+event: content
+id: 539
+data: <H
+
+event: content
+id: 540
+data: 1
+
+event: content
+id: 541
+data: >
+
+event: content
+id: 542
+data: Recurs
+
+event: content
+id: 543
+data: ion
+
+event: content
+id: 544
+data:  an
+
+event: content
+id: 545
+data: d Divide
+
+event: content
+id: 546
+data: -
+
+event: content
+id: 547
+data: an
+
+event: content
+id: 548
+data: d-
+
+event: content
+id: 549
+data: Con
+
+event: content
+id: 550
+data: quer
+
+event: content
+id: 551
+data: </
+
+event: content
+id: 552
+data: H
+
+event: content
+id: 553
+data: 1
+
+event: content
+id: 554
+data: >
+
+event: content
+id: 555
+data: 
+data: 
+
+event: content
+id: 556
+data: <ICONS
+
+event: content
+id: 557
+data: >
+
+event: content
+id: 558
+data: 
+data: 
+
+event: content
+id: 559
+data: <DI
+
+event: content
+id: 560
+data: V
+
+event: content
+id: 561
+data: >
+
+event: content
+id: 562
+data: 
+data: 
+
+event: content
+id: 563
+data: <IMG
+
+event: content
+id: 564
+data:  type
+
+event: content
+id: 565
+data: ="
+
+event: content
+id: 566
+data: icon
+
+event: content
+id: 567
+data: "
+
+event: content
+id: 568
+data:  query
+
+event: content
+id: 569
+data: ="
+
+event: content
+id: 570
+data: recurs
+
+event: content
+id: 571
+data: ion
+
+event: content
+id: 572
+data: "
+
+event: content
+id: 573
+data:  />
+
+event: content
+id: 574
+data: 
+data: 
+
+event: content
+id: 575
+data: <H
+
+event: content
+id: 576
+data: 4
+
+event: content
+id: 577
+data: >
+
+event: content
+id: 578
+data: Recurs
+
+event: content
+id: 579
+data: ion
+
+event: content
+id: 580
+data: </
+
+event: content
+id: 581
+data: H
+
+event: content
+id: 582
+data: 4
+
+event: content
+id: 583
+data: >
+
+event: content
+id: 584
+data: 
+data: 
+
+event: content
+id: 585
+data: <P
+
+event: content
+id: 586
+data: >
+
+event: content
+id: 587
+data: A
+
+event: content
+id: 588
+data:  powerful
+
+event: content
+id: 589
+data:  problem
+
+event: content
+id: 590
+data: -
+
+event: content
+id: 591
+data: solving
+
+event: content
+id: 592
+data:  technique
+
+event: content
+id: 593
+data:  where
+
+event: content
+id: 594
+data:  a
+
+event: content
+id: 595
+data:  function
+
+event: content
+id: 596
+data:  calls
+
+event: content
+id: 597
+data:  itself
+
+event: content
+id: 598
+data:  to
+
+event: content
+id: 599
+data:  solve
+
+event: content
+id: 600
+data:  a
+
+event: content
+id: 601
+data:  smaller
+
+event: content
+id: 602
+data:  version
+
+event: content
+id: 603
+data:  of
+
+event: content
+id: 604
+data:  the
+
+event: content
+id: 605
+data:  same
+
+event: content
+id: 606
+data:  problem
+
+event: content
+id: 607
+data: .</
+
+event: content
+id: 608
+data: P
+
+event: content
+id: 609
+data: >
+
+event: content
+id: 610
+data: 
+data: </
+
+event: content
+id: 611
+data: DI
+
+event: content
+id: 612
+data: V
+
+event: content
+id: 613
+data: >
+
+event: content
+id: 614
+data: 
+data: 
+
+event: content
+id: 615
+data: <DI
+
+event: content
+id: 616
+data: V
+
+event: content
+id: 617
+data: >
+
+event: content
+id: 618
+data: 
+data: 
+
+event: content
+id: 619
+data: <IMG
+
+event: content
+id: 620
+data:  type
+
+event: content
+id: 621
+data: ="
+
+event: content
+id: 622
+data: icon
+
+event: content
+id: 623
+data: "
+
+event: content
+id: 624
+data:  query
+
+event: content
+id: 625
+data: ="
+
+event: content
+id: 626
+data: divide
+
+event: content
+id: 627
+data:  an
+
+event: content
+id: 628
+data: d con
+
+event: content
+id: 629
+data: quer
+
+event: content
+id: 630
+data: "
+
+event: content
+id: 631
+data:  />
+
+event: content
+id: 632
+data: 
+data: 
+
+event: content
+id: 633
+data: <H
+
+event: content
+id: 634
+data: 4
+
+event: content
+id: 635
+data: >
+
+event: content
+id: 636
+data: Divide
+
+event: content
+id: 637
+data: -
+
+event: content
+id: 638
+data: an
+
+event: content
+id: 639
+data: d-
+
+event: content
+id: 640
+data: Con
+
+event: content
+id: 641
+data: quer
+
+event: content
+id: 642
+data: </
+
+event: content
+id: 643
+data: H
+
+event: content
+id: 644
+data: 4
+
+event: content
+id: 645
+data: >
+
+event: content
+id: 646
+data: 
+data: 
+
+event: content
+id: 647
+data: <P
+
+event: content
+id: 648
+data: >
+
+event: content
+id: 649
+data: A
+
+event: content
+id: 650
+data:  strategy
+
+event: content
+id: 651
+data:  that
+
+event: content
+id: 652
+data:  breaks
+
+event: content
+id: 653
+data:  a
+
+event: content
+id: 654
+data:  problem
+
+event: content
+id: 655
+data:  down
+
+event: content
+id: 656
+data:  into
+
+event: content
+id: 657
+data:  smaller
+
+event: content
+id: 658
+data:  sub
+
+event: content
+id: 659
+data: -
+
+event: content
+id: 660
+data: problems
+
+event: content
+id: 661
+data: ,
+
+event: content
+id: 662
+data:  sol
+
+event: content
+id: 663
+data: ves
+
+event: content
+id: 664
+data:  them
+
+event: content
+id: 665
+data:  independently
+
+event: content
+id: 666
+data: ,
+
+event: content
+id: 667
+data:  an
+
+event: content
+id: 668
+data: d then
+
+event: content
+id: 669
+data:  combines
+
+event: content
+id: 670
+data:  the
+
+event: content
+id: 671
+data:  solutions
+
+event: content
+id: 672
+data: .</
+
+event: content
+id: 673
+data: P
+
+event: content
+id: 674
+data: >
+
+event: content
+id: 675
+data: 
+data: </
+
+event: content
+id: 676
+data: DI
+
+event: content
+id: 677
+data: V
+
+event: content
+id: 678
+data: >
+
+event: content
+id: 679
+data: 
+data: </
+
+event: content
+id: 680
+data: ICONS
+
+event: content
+id: 681
+data: >
+
+event: content
+id: 682
+data: 
+data: 
+
+event: content
+id: 683
+data: <IMG
+
+event: content
+id: 684
+data:  query
+
+event: content
+id: 685
+data: ="
+
+event: content
+id: 686
+data: recurs
+
+event: content
+id: 687
+data: ion
+
+event: content
+id: 688
+data:  an
+
+event: content
+id: 689
+data: d divide
+
+event: content
+id: 690
+data:  an
+
+event: content
+id: 691
+data: d con
+
+event: content
+id: 692
+data: quer
+
+event: content
+id: 693
+data: "
+
+event: content
+id: 694
+data:  />
+
+event: content
+id: 695
+data: 
+data: </
+
+event: content
+id: 696
+data: SECTION
+
+event: content
+id: 697
+data: >
+
+event: content
+id: 698
+data: 
+data: 
+data: 
+
+event: content
+id: 699
+data: <SECTION
+
+event: content
+id: 700
+data:  n
+
+event: content
+id: 701
+data: =
+
+event: content
+id: 702
+data: 6
+
+event: content
+id: 703
+data: >
+
+event: content
+id: 704
+data: 
+data: 
+
+event: content
+id: 705
+data: <H
+
+event: content
+id: 706
+data: 1
+
+event: content
+id: 707
+data: >
+
+event: content
+id: 708
+data: Graph
+
+event: content
+id: 709
+data:  Algorithms
+
+event: content
+id: 710
+data: </
+
+event: content
+id: 711
+data: H
+
+event: content
+id: 712
+data: 1
+
+event: content
+id: 713
+data: >
+
+event: content
+id: 714
+data: 
+data: 
+
+event: content
+id: 715
+data: <ARROWS
+
+event: content
+id: 716
+data:  orientation
+
+event: content
+id: 717
+data: ="
+
+event: content
+id: 718
+data: horizontal
+
+event: content
+id: 719
+data: ">
+
+event: content
+id: 720
+data: 
+data: 
+
+event: content
+id: 721
+data: <DI
+
+event: content
+id: 722
+data: V
+
+event: content
+id: 723
+data: >
+
+event: content
+id: 724
+data: 
+data: 
+
+event: content
+id: 725
+data: <H
+
+event: content
+id: 726
+data: 4
+
+event: content
+id: 727
+data: >
+
+event: content
+id: 728
+data: Brea
+
+event: content
+id: 729
+data: dth
+
+event: content
+id: 730
+data: -
+
+event: content
+id: 731
+data: First
+
+event: content
+id: 732
+data:  Search
+
+event: content
+id: 733
+data: </
+
+event: content
+id: 734
+data: H
+
+event: content
+id: 735
+data: 4
+
+event: content
+id: 736
+data: >
+
+event: content
+id: 737
+data: 
+data: 
+
+event: content
+id: 738
+data: <P
+
+event: content
+id: 739
+data: >
+
+event: content
+id: 740
+data: An
+
+event: content
+id: 741
+data:  algorithm
+
+event: content
+id: 742
+data:  that
+
+event: content
+id: 743
+data:  explores
+
+event: content
+id: 744
+data:  all
+
+event: content
+id: 745
+data:  the
+
+event: content
+id: 746
+data:  neighboring
+
+event: content
+id: 747
+data:  nodes
+
+event: content
+id: 748
+data:  at
+
+event: content
+id: 749
+data:  the
+
+event: content
+id: 750
+data:  present
+
+event: content
+id: 751
+data:  depth
+
+event: content
+id: 752
+data:  before
+
+event: content
+id: 753
+data:  moving
+
+event: content
+id: 754
+data:  on
+
+event: content
+id: 755
+data:  to
+
+event: content
+id: 756
+data:  the
+
+event: content
+id: 757
+data:  nodes
+
+event: content
+id: 758
+data:  at
+
+event: content
+id: 759
+data:  the
+
+event: content
+id: 760
+data:  next
+
+event: content
+id: 761
+data:  depth
+
+event: content
+id: 762
+data:  level
+
+event: content
+id: 763
+data: .</
+
+event: content
+id: 764
+data: P
+
+event: content
+id: 765
+data: >
+
+event: content
+id: 766
+data: 
+data: </
+
+event: content
+id: 767
+data: DI
+
+event: content
+id: 768
+data: V
+
+event: content
+id: 769
+data: >
+
+event: content
+id: 770
+data: 
+data: 
+
+event: content
+id: 771
+data: <DI
+
+event: content
+id: 772
+data: V
+
+event: content
+id: 773
+data: >
+
+event: content
+id: 774
+data: 
+data: 
+
+event: content
+id: 775
+data: <H
+
+event: content
+id: 776
+data: 4
+
+event: content
+id: 777
+data: >
+
+event: content
+id: 778
+data: Depth
+
+event: content
+id: 779
+data: -
+
+event: content
+id: 780
+data: First
+
+event: content
+id: 781
+data:  Search
+
+event: content
+id: 782
+data: </
+
+event: content
+id: 783
+data: H
+
+event: content
+id: 784
+data: 4
+
+event: content
+id: 785
+data: >
+
+event: content
+id: 786
+data: 
+data: 
+
+event: content
+id: 787
+data: <P
+
+event: content
+id: 788
+data: >
+
+event: content
+id: 789
+data: An
+
+event: content
+id: 790
+data:  algorithm
+
+event: content
+id: 791
+data:  that
+
+event: content
+id: 792
+data:  explores
+
+event: content
+id: 793
+data:  as
+
+event: content
+id: 794
+data:  far
+
+event: content
+id: 795
+data:  as
+
+event: content
+id: 796
+data:  possible
+
+event: content
+id: 797
+data:  along
+
+event: content
+id: 798
+data:  each
+
+event: content
+id: 799
+data:  branch
+
+event: content
+id: 800
+data:  before
+
+event: content
+id: 801
+data:  back
+
+event: content
+id: 802
+data: tr
+
+event: content
+id: 803
+data: acking
+
+event: content
+id: 804
+data: .</
+
+event: content
+id: 805
+data: P
+
+event: content
+id: 806
+data: >
+
+event: content
+id: 807
+data: 
+data: </
+
+event: content
+id: 808
+data: DI
+
+event: content
+id: 809
+data: V
+
+event: content
+id: 810
+data: >
+
+event: content
+id: 811
+data: 
+data: 
+
+event: content
+id: 812
+data: <DI
+
+event: content
+id: 813
+data: V
+
+event: content
+id: 814
+data: >
+
+event: content
+id: 815
+data: 
+data: 
+
+event: content
+id: 816
+data: <H
+
+event: content
+id: 817
+data: 4
+
+event: content
+id: 818
+data: >
+
+event: content
+id: 819
+data: Connectivity
+
+event: content
+id: 820
+data:  Analysis
+
+event: content
+id: 821
+data: </
+
+event: content
+id: 822
+data: H
+
+event: content
+id: 823
+data: 4
+
+event: content
+id: 824
+data: >
+
+event: content
+id: 825
+data: 
+data: 
+
+event: content
+id: 826
+data: <P
+
+event: content
+id: 827
+data: >
+
+event: content
+id: 828
+data: Identifying
+
+event: content
+id: 829
+data:  connecte
+
+event: content
+id: 830
+data: d components
+
+event: content
+id: 831
+data:  an
+
+event: content
+id: 832
+data: d understanding
+
+event: content
+id: 833
+data:  the
+
+event: content
+id: 834
+data:  relationships
+
+event: content
+id: 835
+data:  between
+
+event: content
+id: 836
+data:  nodes
+
+event: content
+id: 837
+data:  in
+
+event: content
+id: 838
+data:  a
+
+event: content
+id: 839
+data:  graph
+
+event: content
+id: 840
+data: .</
+
+event: content
+id: 841
+data: P
+
+event: content
+id: 842
+data: >
+
+event: content
+id: 843
+data: 
+data: </
+
+event: content
+id: 844
+data: DI
+
+event: content
+id: 845
+data: V
+
+event: content
+id: 846
+data: >
+
+event: content
+id: 847
+data: 
+data: </
+
+event: content
+id: 848
+data: ARROWS
+
+event: content
+id: 849
+data: >
+
+event: content
+id: 850
+data: 
+data: 
+
+event: content
+id: 851
+data: <IMG
+
+event: content
+id: 852
+data:  query
+
+event: content
+id: 853
+data: ="
+
+event: content
+id: 854
+data: graph
+
+event: content
+id: 855
+data:  algorithms
+
+event: content
+id: 856
+data:  visualization
+
+event: content
+id: 857
+data: "
+
+event: content
+id: 858
+data:  />
+
+event: content
+id: 859
+data: 
+data: </
+
+event: content
+id: 860
+data: SECTION
+
+event: content
+id: 861
+data: >
+
+event: content
+id: 862
+data: 
+data: 
+data: 
+
+event: content
+id: 863
+data: <SECTION
+
+event: content
+id: 864
+data:  n
+
+event: content
+id: 865
+data: =
+
+event: content
+id: 866
+data: 7
+
+event: content
+id: 867
+data: >
+
+event: content
+id: 868
+data: 
+data: 
+
+event: content
+id: 869
+data: <H
+
+event: content
+id: 870
+data: 1
+
+event: content
+id: 871
+data: >
+
+event: content
+id: 872
+data: Dynamic
+
+event: content
+id: 873
+data:  Programming
+
+event: content
+id: 874
+data:  an
+
+event: content
+id: 875
+data: d Gre
+
+event: content
+id: 876
+data: edy
+
+event: content
+id: 877
+data:  Algorithms
+
+event: content
+id: 878
+data: </
+
+event: content
+id: 879
+data: H
+
+event: content
+id: 880
+data: 1
+
+event: content
+id: 881
+data: >
+
+event: content
+id: 882
+data: 
+data: 
+
+event: content
+id: 883
+data: <BOXES
+
+event: content
+id: 884
+data: >
+
+event: content
+id: 885
+data: 
+data: 
+
+event: content
+id: 886
+data: <DI
+
+event: content
+id: 887
+data: V
+
+event: content
+id: 888
+data: >
+
+event: content
+id: 889
+data: 
+data: 
+
+event: content
+id: 890
+data: <H
+
+event: content
+id: 891
+data: 4
+
+event: content
+id: 892
+data: >
+
+event: content
+id: 893
+data: Dynamic
+
+event: content
+id: 894
+data:  Programming
+
+event: content
+id: 895
+data: </
+
+event: content
+id: 896
+data: H
+
+event: content
+id: 897
+data: 4
+
+event: content
+id: 898
+data: >
+
+event: content
+id: 899
+data: 
+data: 
+
+event: content
+id: 900
+data: <P
+
+event: content
+id: 901
+data: >
+
+event: content
+id: 902
+data: A
+
+event: content
+id: 903
+data:  technique
+
+event: content
+id: 904
+data:  that
+
+event: content
+id: 905
+data:  sol
+
+event: content
+id: 906
+data: ves
+
+event: content
+id: 907
+data:  complex
+
+event: content
+id: 908
+data:  problems
+
+event: content
+id: 909
+data:  by
+
+event: content
+id: 910
+data:  breaking
+
+event: content
+id: 911
+data:  them
+
+event: content
+id: 912
+data:  down
+
+event: content
+id: 913
+data:  into
+
+event: content
+id: 914
+data:  smaller
+
+event: content
+id: 915
+data: ,
+
+event: content
+id: 916
+data:  overl
+
+event: content
+id: 917
+data: apping
+
+event: content
+id: 918
+data:  sub
+
+event: content
+id: 919
+data: -
+
+event: content
+id: 920
+data: problems
+
+event: content
+id: 921
+data:  an
+
+event: content
+id: 922
+data: d storing
+
+event: content
+id: 923
+data:  their
+
+event: content
+id: 924
+data:  solutions
+
+event: content
+id: 925
+data: .</
+
+event: content
+id: 926
+data: P
+
+event: content
+id: 927
+data: >
+
+event: content
+id: 928
+data: 
+data: </
+
+event: content
+id: 929
+data: DI
+
+event: content
+id: 930
+data: V
+
+event: content
+id: 931
+data: >
+
+event: content
+id: 932
+data: 
+data: 
+
+event: content
+id: 933
+data: <DI
+
+event: content
+id: 934
+data: V
+
+event: content
+id: 935
+data: >
+
+event: content
+id: 936
+data: 
+data: 
+
+event: content
+id: 937
+data: <H
+
+event: content
+id: 938
+data: 4
+
+event: content
+id: 939
+data: >
+
+event: content
+id: 940
+data: Gre
+
+event: content
+id: 941
+data: edy
+
+event: content
+id: 942
+data:  Algorithms
+
+event: content
+id: 943
+data: </
+
+event: content
+id: 944
+data: H
+
+event: content
+id: 945
+data: 4
+
+event: content
+id: 946
+data: >
+
+event: content
+id: 947
+data: 
+data: 
+
+event: content
+id: 948
+data: <P
+
+event: content
+id: 949
+data: >
+
+event: content
+id: 950
+data: Algorithms
+
+event: content
+id: 951
+data:  that
+
+event: content
+id: 952
+data:  make
+
+event: content
+id: 953
+data:  locally
+
+event: content
+id: 954
+data:  optimal
+
+event: content
+id: 955
+data:  choices
+
+event: content
+id: 956
+data:  at
+
+event: content
+id: 957
+data:  each
+
+event: content
+id: 958
+data:  stage
+
+event: content
+id: 959
+data:  with
+
+event: content
+id: 960
+data:  the
+
+event: content
+id: 961
+data:  hope
+
+event: content
+id: 962
+data:  of
+
+event: content
+id: 963
+data:  finding
+
+event: content
+id: 964
+data:  a
+
+event: content
+id: 965
+data:  global
+
+event: content
+id: 966
+data:  optim
+
+event: content
+id: 967
+data: um
+
+event: content
+id: 968
+data: .</
+
+event: content
+id: 969
+data: P
+
+event: content
+id: 970
+data: >
+
+event: content
+id: 971
+data: 
+data: </
+
+event: content
+id: 972
+data: DI
+
+event: content
+id: 973
+data: V
+
+event: content
+id: 974
+data: >
+
+event: content
+id: 975
+data: 
+data: </
+
+event: content
+id: 976
+data: BOXES
+
+event: content
+id: 977
+data: >
+
+event: content
+id: 978
+data: 
+data: 
+
+event: content
+id: 979
+data: <IMG
+
+event: content
+id: 980
+data:  query
+
+event: content
+id: 981
+data: ="
+
+event: content
+id: 982
+data: dynamic
+
+event: content
+id: 983
+data:  programming
+
+event: content
+id: 984
+data:  an
+
+event: content
+id: 985
+data: d gre
+
+event: content
+id: 986
+data: edy
+
+event: content
+id: 987
+data:  algorithms
+
+event: content
+id: 988
+data: "
+
+event: content
+id: 989
+data:  />
+
+event: content
+id: 990
+data: 
+data: </
+
+event: content
+id: 991
+data: SECTION
+
+event: content
+id: 992
+data: >
+
+event: content
+id: 993
+data: 
+data: 
+data: 
+
+event: content
+id: 994
+data: <SECTION
+
+event: content
+id: 995
+data:  n
+
+event: content
+id: 996
+data: =
+
+event: content
+id: 997
+data: 8
+
+event: content
+id: 998
+data: >
+
+event: content
+id: 999
+data: 
+data: 
+
+event: content
+id: 1000
+data: <H
+
+event: content
+id: 1001
+data: 1
+
+event: content
+id: 1002
+data: >
+
+event: content
+id: 1003
+data: Importance
+
+event: content
+id: 1004
+data:  in
+
+event: content
+id: 1005
+data:  Software
+
+event: content
+id: 1006
+data:  Development
+
+event: content
+id: 1007
+data: </
+
+event: content
+id: 1008
+data: H
+
+event: content
+id: 1009
+data: 1
+
+event: content
+id: 1010
+data: >
+
+event: content
+id: 1011
+data: 
+data: 
+
+event: content
+id: 1012
+data: <TABLE
+
+event: content
+id: 1013
+data: >
+
+event: content
+id: 1014
+data: 
+data: 
+
+event: content
+id: 1015
+data: <TR
+
+event: content
+id: 1016
+data: >
+
+event: content
+id: 1017
+data: 
+data: 
+
+event: content
+id: 1018
+data: <TD
+
+event: content
+id: 1019
+data: >
+
+event: content
+id: 1020
+data: Efficiency
+
+event: content
+id: 1021
+data: </
+
+event: content
+id: 1022
+data: TD
+
+event: content
+id: 1023
+data: >
+
+event: content
+id: 1024
+data: 
+data: 
+
+event: content
+id: 1025
+data: <TD
+
+event: content
+id: 1026
+data: >
+
+event: content
+id: 1027
+data: Data
+
+event: content
+id: 1028
+data:  structures
+
+event: content
+id: 1029
+data:  an
+
+event: content
+id: 1030
+data: d algorithms
+
+event: content
+id: 1031
+data:  help
+
+event: content
+id: 1032
+data:  create
+
+event: content
+id: 1033
+data:  fast
+
+event: content
+id: 1034
+data: ,
+
+event: content
+id: 1035
+data:  scal
+
+event: content
+id: 1036
+data: able
+
+event: content
+id: 1037
+data: ,
+
+event: content
+id: 1038
+data:  an
+
+event: content
+id: 1039
+data: d resource
+
+event: content
+id: 1040
+data: -
+
+event: content
+id: 1041
+data: efficient
+
+event: content
+id: 1042
+data:  software
+
+event: content
+id: 1043
+data: .</
+
+event: content
+id: 1044
+data: TD
+
+event: content
+id: 1045
+data: >
+
+event: content
+id: 1046
+data: 
+data: </
+
+event: content
+id: 1047
+data: TR
+
+event: content
+id: 1048
+data: >
+
+event: content
+id: 1049
+data: 
+data: 
+
+event: content
+id: 1050
+data: <TR
+
+event: content
+id: 1051
+data: >
+
+event: content
+id: 1052
+data: 
+data: 
+
+event: content
+id: 1053
+data: <TD
+
+event: content
+id: 1054
+data: >
+
+event: content
+id: 1055
+data: Problem
+
+event: content
+id: 1056
+data:  Solving
+
+event: content
+id: 1057
+data: </
+
+event: content
+id: 1058
+data: TD
+
+event: content
+id: 1059
+data: >
+
+event: content
+id: 1060
+data: 
+data: 
+
+event: content
+id: 1061
+data: <TD
+
+event: content
+id: 1062
+data: >
+
+event: content
+id: 1063
+data: Understanding
+
+event: content
+id: 1064
+data:  algorithms
+
+event: content
+id: 1065
+data:  an
+
+event: content
+id: 1066
+data: d data
+
+event: content
+id: 1067
+data:  structures
+
+event: content
+id: 1068
+data:  is
+
+event: content
+id: 1069
+data:  crucial
+
+event: content
+id: 1070
+data:  for
+
+event: content
+id: 1071
+data:  solving
+
+event: content
+id: 1072
+data:  complex
+
+event: content
+id: 1073
+data:  problems
+
+event: content
+id: 1074
+data:  in
+
+event: content
+id: 1075
+data:  software
+
+event: content
+id: 1076
+data:  engineering
+
+event: content
+id: 1077
+data: .</
+
+event: content
+id: 1078
+data: TD
+
+event: content
+id: 1079
+data: >
+
+event: content
+id: 1080
+data: 
+data: </
+
+event: content
+id: 1081
+data: TR
+
+event: content
+id: 1082
+data: >
+
+event: content
+id: 1083
+data: 
+data: 
+
+event: content
+id: 1084
+data: <TR
+
+event: content
+id: 1085
+data: >
+
+event: content
+id: 1086
+data: 
+data: 
+
+event: content
+id: 1087
+data: <TD
+
+event: content
+id: 1088
+data: >
+
+event: content
+id: 1089
+data: Optimization
+
+event: content
+id: 1090
+data: </
+
+event: content
+id: 1091
+data: TD
+
+event: content
+id: 1092
+data: >
+
+event: content
+id: 1093
+data: 
+data: 
+
+event: content
+id: 1094
+data: <TD
+
+event: content
+id: 1095
+data: >
+
+event: content
+id: 1096
+data: Applying
+
+event: content
+id: 1097
+data:  the
+
+event: content
+id: 1098
+data:  right
+
+event: content
+id: 1099
+data:  data
+
+event: content
+id: 1100
+data:  structures
+
+event: content
+id: 1101
+data:  an
+
+event: content
+id: 1102
+data: d algorithms
+
+event: content
+id: 1103
+data:  can
+
+event: content
+id: 1104
+data:  significantly
+
+event: content
+id: 1105
+data:  optimize
+
+event: content
+id: 1106
+data:  the
+
+event: content
+id: 1107
+data:  performance
+
+event: content
+id: 1108
+data:  of
+
+event: content
+id: 1109
+data:  software
+
+event: content
+id: 1110
+data:  applications
+
+event: content
+id: 1111
+data: .</
+
+event: content
+id: 1112
+data: TD
+
+event: content
+id: 1113
+data: >
+
+event: content
+id: 1114
+data: 
+data: </
+
+event: content
+id: 1115
+data: TR
+
+event: content
+id: 1116
+data: >
+
+event: content
+id: 1117
+data: 
+data: </
+
+event: content
+id: 1118
+data: TABLE
+
+event: content
+id: 1119
+data: >
+
+event: content
+id: 1120
+data: 
+data: 
+
+event: content
+id: 1121
+data: <IMG
+
+event: content
+id: 1122
+data:  query
+
+event: content
+id: 1123
+data: ="
+
+event: content
+id: 1124
+data: software
+
+event: content
+id: 1125
+data:  development
+
+event: content
+id: 1126
+data: "
+
+event: content
+id: 1127
+data:  />
+
+event: content
+id: 1128
+data: 
+data: </
+
+event: content
+id: 1129
+data: SECTION
+
+event: content
+id: 1130
+data: >
+
+event: content
+id: 1131
+data: 
+data: 
+data: 
+
+event: content
+id: 1132
+data: <SECTION
+
+event: content
+id: 1133
+data:  n
+
+event: content
+id: 1134
+data: =
+
+event: content
+id: 1135
+data: 9
+
+event: content
+id: 1136
+data: >
+
+event: content
+id: 1137
+data: 
+data: 
+
+event: content
+id: 1138
+data: <H
+
+event: content
+id: 1139
+data: 1
+
+event: content
+id: 1140
+data: >
+
+event: content
+id: 1141
+data: Recap
+
+event: content
+id: 1142
+data: </
+
+event: content
+id: 1143
+data: H
+
+event: content
+id: 1144
+data: 1
+
+event: content
+id: 1145
+data: >
+
+event: content
+id: 1146
+data: 
+data: 
+
+event: content
+id: 1147
+data: <BULLETS
+
+event: content
+id: 1148
+data: >
+
+event: content
+id: 1149
+data: 
+data: 
+
+event: content
+id: 1150
+data: <DI
+
+event: content
+id: 1151
+data: V
+
+event: content
+id: 1152
+data: >
+
+event: content
+id: 1153
+data: 
+data: 
+
+event: content
+id: 1154
+data: <H
+
+event: content
+id: 1155
+data: 4
+
+event: content
+id: 1156
+data: >
+
+event: content
+id: 1157
+data: Fundamental
+
+event: content
+id: 1158
+data:  Concepts
+
+event: content
+id: 1159
+data: </
+
+event: content
+id: 1160
+data: H
+
+event: content
+id: 1161
+data: 4
+
+event: content
+id: 1162
+data: >
+
+event: content
+id: 1163
+data: 
+data: 
+
+event: content
+id: 1164
+data: <P
+
+event: content
+id: 1165
+data: >
+
+event: content
+id: 1166
+data: Data
+
+event: content
+id: 1167
+data:  structures
+
+event: content
+id: 1168
+data:  an
+
+event: content
+id: 1169
+data: d algorithms
+
+event: content
+id: 1170
+data:  form
+
+event: content
+id: 1171
+data:  the
+
+event: content
+id: 1172
+data:  foundation
+
+event: content
+id: 1173
+data:  of
+
+event: content
+id: 1174
+data:  effective
+
+event: content
+id: 1175
+data:  software
+
+event: content
+id: 1176
+data:  development
+
+event: content
+id: 1177
+data: .</
+
+event: content
+id: 1178
+data: P
+
+event: content
+id: 1179
+data: >
+
+event: content
+id: 1180
+data: 
+data: </
+
+event: content
+id: 1181
+data: DI
+
+event: content
+id: 1182
+data: V
+
+event: content
+id: 1183
+data: >
+
+event: content
+id: 1184
+data: 
+data: 
+
+event: content
+id: 1185
+data: <DI
+
+event: content
+id: 1186
+data: V
+
+event: content
+id: 1187
+data: >
+
+event: content
+id: 1188
+data: 
+data: 
+
+event: content
+id: 1189
+data: <H
+
+event: content
+id: 1190
+data: 4
+
+event: content
+id: 1191
+data: >
+
+event: content
+id: 1192
+data: Diverse
+
+event: content
+id: 1193
+data:  Techniques
+
+event: content
+id: 1194
+data: </
+
+event: content
+id: 1195
+data: H
+
+event: content
+id: 1196
+data: 4
+
+event: content
+id: 1197
+data: >
+
+event: content
+id: 1198
+data: 
+data: 
+
+event: content
+id: 1199
+data: <P
+
+event: content
+id: 1200
+data: >
+
+event: content
+id: 1201
+data: From
+
+event: content
+id: 1202
+data:  sorting
+
+event: content
+id: 1203
+data:  an
+
+event: content
+id: 1204
+data: d searching
+
+event: content
+id: 1205
+data:  to
+
+event: content
+id: 1206
+data:  graph
+
+event: content
+id: 1207
+data:  algorithms
+
+event: content
+id: 1208
+data:  an
+
+event: content
+id: 1209
+data: d dynamic
+
+event: content
+id: 1210
+data:  programming
+
+event: content
+id: 1211
+data: ,
+
+event: content
+id: 1212
+data:  these
+
+event: content
+id: 1213
+data:  tools
+
+event: content
+id: 1214
+data:  solve
+
+event: content
+id: 1215
+data:  a
+
+event: content
+id: 1216
+data:  wide
+
+event: content
+id: 1217
+data:  range
+
+event: content
+id: 1218
+data:  of
+
+event: content
+id: 1219
+data:  problems
+
+event: content
+id: 1220
+data: .</
+
+event: content
+id: 1221
+data: P
+
+event: content
+id: 1222
+data: >
+
+event: content
+id: 1223
+data: 
+data: </
+
+event: content
+id: 1224
+data: DI
+
+event: content
+id: 1225
+data: V
+
+event: content
+id: 1226
+data: >
+
+event: content
+id: 1227
+data: 
+data: 
+
+event: content
+id: 1228
+data: <DI
+
+event: content
+id: 1229
+data: V
+
+event: content
+id: 1230
+data: >
+
+event: content
+id: 1231
+data: 
+data: 
+
+event: content
+id: 1232
+data: <H
+
+event: content
+id: 1233
+data: 4
+
+event: content
+id: 1234
+data: >
+
+event: content
+id: 1235
+data: Importance
+
+event: content
+id: 1236
+data:  for
+
+event: content
+id: 1237
+data:  Developers
+
+event: content
+id: 1238
+data: </
+
+event: content
+id: 1239
+data: H
+
+event: content
+id: 1240
+data: 4
+
+event: content
+id: 1241
+data: >
+
+event: content
+id: 1242
+data: 
+data: 
+
+event: content
+id: 1243
+data: <P
+
+event: content
+id: 1244
+data: >
+
+event: content
+id: 1245
+data: Mas
+
+event: content
+id: 1246
+data: tering
+
+event: content
+id: 1247
+data:  data
+
+event: content
+id: 1248
+data:  structures
+
+event: content
+id: 1249
+data:  an
+
+event: content
+id: 1250
+data: d algorithms
+
+event: content
+id: 1251
+data:  is
+
+event: content
+id: 1252
+data:  crucial
+
+event: content
+id: 1253
+data:  for
+
+event: content
+id: 1254
+data:  creating
+
+event: content
+id: 1255
+data:  efficient
+
+event: content
+id: 1256
+data: ,
+
+event: content
+id: 1257
+data:  scal
+
+event: content
+id: 1258
+data: able
+
+event: content
+id: 1259
+data: ,
+
+event: content
+id: 1260
+data:  an
+
+event: content
+id: 1261
+data: d optim
+
+event: content
+id: 1262
+data: ize
+
+event: content
+id: 1263
+data: d software
+
+event: content
+id: 1264
+data:  applications
+
+event: content
+id: 1265
+data: .</
+
+event: content
+id: 1266
+data: P
+
+event: content
+id: 1267
+data: >
+
+event: content
+id: 1268
+data: 
+data: </
+
+event: content
+id: 1269
+data: DI
+
+event: content
+id: 1270
+data: V
+
+event: content
+id: 1271
+data: >
+
+event: content
+id: 1272
+data: 
+data: </
+
+event: content
+id: 1273
+data: BULLETS
+
+event: content
+id: 1274
+data: >
+
+event: content
+id: 1275
+data: 
+data: 
+
+event: content
+id: 1276
+data: <IMG
+
+event: content
+id: 1277
+data:  query
+
+event: content
+id: 1278
+data: ="
+
+event: content
+id: 1279
+data: data
+
+event: content
+id: 1280
+data:  structures
+
+event: content
+id: 1281
+data:  an
+
+event: content
+id: 1282
+data: d algorithms
+
+event: content
+id: 1283
+data:  review
+
+event: content
+id: 1284
+data: "
+
+event: content
+id: 1285
+data:  />
+
+event: content
+id: 1286
+data: 
+data: </
+
+event: content
+id: 1287
+data: SECTION
+
+event: content
+id: 1288
+data: >
+
+event: done
+id: 1289
+data: end_turn
